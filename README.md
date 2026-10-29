@@ -16,8 +16,8 @@ Math &amp; Computer Science student at the University of Bonn, passionate about 
 🌱 &nbsp;I'm currently learning **&gt; Deep Reinforcement Learning theory, advanced analysis, and GPU-accelerated computing**  
 👯 &nbsp;I'm looking to collaborate on **&gt; Open-source ML research tools, simulation environments, and interactive STEM visualizers**  
 🤔 &nbsp;I'm looking for help with **&gt; Scaling RL training environments and optimizing hyperparameter search pipelines**  
-💬 &nbsp;Ask me about **&gt; Reinforcement learning, Python automation, WebGL/Canvas rendering, linear algebra, or custom PC hardware &gt;**  
-😄 &nbsp;Pronouns: **&gt; he/him &gt;**  
+💬 &nbsp;Ask me about **&gt; Reinforcement learning, Python automation, WebGL/Canvas rendering, linear algebra, or custom PC hardware**  
+😄 &nbsp;Pronouns: **&gt; he/him**  
 ⚡ &nbsp;Fun fact: **&gt; I custom-built a 2002 Mitsubishi Pajero into a camper tourer while in Victoria, Australia.**
 
 ### 🛠️ Tech Stack
