@@ -1,165 +1,265 @@
+<!-- PAUL ZIEGON / THE MATHEMATICAL OBSERVATORY -->
+<!-- Self-contained: no image assets, external widgets, custom CSS or scripts. -->
+
 <div align="center">
 
-<sub>BONN, GERMANY &nbsp; / &nbsp; MATHEMATICS · COMPUTATION · EXPERIMENTATION</sub>
+<br>
 
-<h1>Paul<br>Ziegon.</h1>
+<sub>B O N N &nbsp; / &nbsp; G E R M A N Y</sub>
 
-### T H E &nbsp; M A T H E M A T I C A L &nbsp; O B S E R V A T O R Y
+<h1>PAUL<br>ZIEGON</h1>
 
-**Where abstract ideas become working systems.**
+<sup>M A T H E M A T I C S &nbsp; × &nbsp; M A C H I N E &nbsp; L E A R N I N G</sup>
 
-Mathematics & Computer Science · University of Bonn
+<br>
+<br>
 
-[Explore](#01--fields-of-exploration) &nbsp; / &nbsp; [Working set](#02--the-working-set) &nbsp; / &nbsp; [Connect](#05--an-open-channel)
+### Between proof & possibility.
+
+Mathematical thinking. Intelligent systems. Creative engineering.
 
 <br>
 
-$\underbrace{\text{question}\;\longrightarrow\;\text{model}\;\longrightarrow\;\text{experiment}}_{\text{understand}\;\cdot\;\text{build}\;\cdot\;\text{refine}}$
+**[The explorations](#02--the-explorations)** &nbsp; · &nbsp; **[The instruments](#03--the-instruments)** &nbsp; · &nbsp; **[The conversation](#06--the-conversation)**
 
 <br>
+
+---
+
+<sub>THE MATHEMATICAL OBSERVATORY &nbsp; / &nbsp; A PERSONAL FIELD NOTE</sub>
 
 </div>
 
+<br>
+
+## 01 / The point of departure
+
+I'm **Paul Ziegon**, a **Mathematics & Computer Science student at the University of Bonn**.
+
+I'm interested in what happens when an abstract idea becomes something you can investigate: an agent learning to drive, a mathematical structure you can explore, a model you can question or a system that turns repeated work into a deliberate process.
+
+My interests connect **machine learning, reinforcement learning, quantitative modeling and interactive computing**. I enjoy working through difficult problems, understanding their mathematical foundations and translating that understanding into software.
+
+> **Curiosity drives the question.**  
+> Mathematics builds the foundation.  
+> Engineering brings the idea to life.
+
+<br>
+
+```mermaid
+flowchart TB
+    M["MATHEMATICAL THINKING<br/>Structure · Reasoning · Abstraction"]
+    C["COMPUTATIONAL EXPERIMENTATION<br/>Models · Algorithms · Software"]
+    L["LEARNING<br/>Agents & simulation"]
+    V["SEEING<br/>Geometry & interaction"]
+    S["BUILDING<br/>Data & automation"]
+
+    M --> C
+    C --> L
+    C --> V
+    C --> S
+
+    classDef foundation fill:#101a2a,stroke:#a7b8da,color:#eef2ff,stroke-width:1px;
+    classDef computation fill:#10242d,stroke:#8acfd0,color:#e6fffb,stroke-width:1px;
+    classDef exploration fill:#141b29,stroke:#748ba6,color:#e0eaf4,stroke-width:1px;
+
+    class M foundation;
+    class C computation;
+    class L,V,S exploration;
+
+    linkStyle default stroke:#8aa8bc,stroke-width:1px;
+```
+
+<br>
+
+## 02 / The explorations
+
+<sub>FOUR DIRECTIONS &nbsp; / &nbsp; ONE UNDERLYING CURIOSITY</sub>
+
+<br>
+
+### Ⅰ &nbsp; Learning the racing line
+
+**Autonomous Racing Intelligence**
+
+$$
+\underbrace{s_t}_{\text{observe}}
+\;\xrightarrow{\;\pi(a\mid s)\;}\;
+\underbrace{a_t}_{\text{act}}
+\;\longrightarrow\;
+\underbrace{s_{t+1}}_{\text{observe again}}
+$$
+
+An environment, an observation, a decision. Then another.
+
+I'm exploring autonomous racing agents capable of learning driving behavior through **reinforcement learning**, with an interest in the relationship between mathematical models, simulation and autonomous decision-making.
+
+**Focus**  
+Deep reinforcement learning · Simulation environments · Autonomous decisions · Model optimization
+
+<br>
+
 ---
 
-### Curiosity, given structure.
-
-I'm **Paul**, studying **Mathematics & Computer Science at the University of Bonn**.
-
-I'm drawn to the space where mathematical reasoning becomes something you can run, see and question. My interests connect **machine learning, reinforcement learning, quantitative modeling and interactive computing**.
-
-I enjoy understanding the structure of a difficult problem, building a system around it and finding out where the assumptions stop holding.
-
-> Curiosity asks the question.  
-> Mathematics gives it structure.  
-> Engineering makes it tangible.
-
 <br>
 
-## 01 / Fields of exploration
+### Ⅱ &nbsp; Thinking in uncertainty
 
-Four connected directions. Personal projects, open questions and ongoing experiments.
+**Quantitative Intelligence**
+
+$$
+\mathbb{E}[X]
+\qquad \operatorname{Var}(X)
+\qquad \mathbb{P}(A\mid B)
+$$
+
+Patterns invite a model. Uncertainty invites a better question.
+
+I'm exploring **algorithmic trading concepts, quantitative modeling and data analysis** — connecting mathematical reasoning with computational approaches to financial markets and automated workflows.
+
+**Focus**  
+Quantitative models · Data-driven strategies · Algorithmic approaches · Intelligent automation
 
 <br>
-
-### ↗ &nbsp; Autonomous Racing Intelligence
-
-<sub>REINFORCEMENT LEARNING / SIMULATION / DECISION-MAKING</sub>
-
-#### Learning to act, one decision at a time.
-
-Exploring autonomous racing agents and the mathematics behind learned driving behavior: how observations become actions, how rewards shape a policy and how an agent learns to navigate a complex environment.
-
-**In focus**  
-Deep reinforcement learning · Autonomous decision-making · Simulation environments · Model optimization
 
 ---
 
-### ∿ &nbsp; Quantitative Intelligence
+<br>
 
-<sub>MODELING / MARKETS / UNCERTAINTY</sub>
+### Ⅲ &nbsp; Giving abstraction a shape
 
-#### Patterns worth questioning.
+**Interactive Mathematics**
 
-Exploring algorithmic approaches to financial markets, quantitative modeling and data analysis. An interest in the relationship between mathematical assumptions, uncertain observations and computational strategies.
+$$
+\underbrace{x+iy}_{\text{symbol}}
+\;\longleftrightarrow\;
+\underbrace{(x,y)}_{\text{geometry}}
+$$
 
-**In focus**  
-Algorithmic trading concepts · Quantitative models · Data-driven strategies · Automated workflows
+A formula can describe a structure. Interaction can make it tangible.
+
+I'm building visual experiences that transform mathematical ideas into **intuitive, interactive environments**, combining mathematical visualization with creative web engineering.
+
+**Focus**  
+WebGL & Canvas · React · Interactive geometry · Visual computing
+
+<br>
 
 ---
 
-### ℂ &nbsp; Interactive Mathematics
+<br>
 
-<sub>GEOMETRY / VISUAL COMPUTING / INTERACTION</sub>
+### Ⅳ &nbsp; Turning repetition into a system
 
-#### Make the abstract explorable.
+**Intelligent Automation**
 
-Building interactive visual experiences that turn mathematical ideas into environments you can investigate. Using geometry, computation and interaction to connect formal structure with visual intuition.
+$$
+x
+\;\xrightarrow{\;f\;}\;
+f(x)
+\;\xrightarrow{\;g\;}\;
+(g\circ f)(x)
+$$
 
-**In focus**  
-WebGL & Canvas · React · Mathematical visualization · Interactive geometry · Creative web engineering
+Small operations. Thoughtful composition. Useful systems.
 
----
+I'm exploring custom programs and automated workflows for **repetitive and computationally complex tasks**, with an emphasis on algorithmic problem solving and making separate pieces of software work together.
 
-### ∘ &nbsp; Intelligent Automation
-
-<sub>ALGORITHMS / SOFTWARE / SYSTEMS</sub>
-
-#### Give an idea a working system.
-
-Exploring custom programs and automated workflows for repetitive and computationally complex tasks. Turning a sequence of manual steps into something deliberate, understandable and useful.
-
-**In focus**  
-Python automation · Algorithmic problem solving · Data processing · Software integration
+**Focus**  
+Python automation · Data processing · Software integration · Algorithms
 
 <br>
 
-**[Explore my repositories ↗](https://github.com/paulziegon?tab=repositories)**
+<sub>The mathematical sketches illustrate each direction; they do not represent measured project results.</sub>
+
+<br>
+<br>
+
+**[Enter the repository collection ↗](https://github.com/paulziegon?tab=repositories)**
 
 <br>
 
-## 02 / The working set
+## 03 / The instruments
 
-Tools for moving between mathematical ideas and computational experiments.
-
-**Languages**  
-`Python` `C++`
-
-**Web & visual computing**  
-`React` `Next.js` `Tailwind CSS` `WebGL` `Canvas`
-
-**Machine learning & data**  
-`PyTorch` `MySQL`
-
-**Development & infrastructure**  
-`Docker` `Linux` `Git` `GitHub` `VS Code` `Notion`
+<sub>A WORKING SET FOR MOVING BETWEEN THEORY AND IMPLEMENTATION</sub>
 
 <br>
 
-### On the learning horizon
+**Write the logic.**  
+`Python` &nbsp; `C++`
+
+**Build the experience.**  
+`React` &nbsp; `Next.js` &nbsp; `Tailwind CSS` &nbsp; `WebGL` &nbsp; `Canvas`
+
+**Work with models and data.**  
+`PyTorch` &nbsp; `MySQL`
+
+**Support the system.**  
+`Docker` &nbsp; `Linux` &nbsp; `Git` &nbsp; `GitHub`
+
+**Organize the work.**  
+`VS Code` &nbsp; `Notion`
+
+<br>
+
+### Still learning. Deliberately.
 
 **01** &nbsp; Deep Reinforcement Learning  
 **02** &nbsp; Advanced Mathematics  
 **03** &nbsp; GPU Computing  
 **04** &nbsp; Algorithm Design
 
-The problems that keep me interested are the ones where mathematical theory meets computational experimentation.
+The questions that keep me interested emerge where mathematical theory meets computational experimentation.
 
 <br>
 
-## 03 / A method, not a shortcut
+## 04 / The method
 
-> **Understand the mathematics.**
->
-> Question the assumptions.
->
-> Build the system.
->
-> **Test the limits.**
-
-Think deeply. Build boldly. Improve continuously.
+<div align="center">
 
 <br>
 
-## 04 / Beyond the terminal
+**Understand the mathematics.**
 
-### Some systems need a spanner.
+Question the assumptions.
 
-In Victoria, Australia, I transformed a **2002 Mitsubishi Pajero into a camper tourer**.
+Build the system.
 
-A different kind of engineering, with the same appetite for problem solving: working within constraints, thinking mechanically, getting creative and making things work in the real world.
+**Test the limits.**
 
 <br>
 
-## 05 / An open channel
+<sub>THINK DEEPLY. &nbsp; BUILD BOLDLY. &nbsp; IMPROVE CONTINUOUSLY.</sub>
 
-Interested in mathematics, AI, machine learning, engineering or ambitious open-source projects?
+<br>
 
-I'd be happy to exchange ideas.
+</div>
 
-**[Email ↗](mailto:paul.ziegon.07@outlook.de)**  
+## 05 / Outside the coordinate system
+
+### A different kind of engineering.
+
+One of my most memorable hands-on projects was transforming a **2002 Mitsubishi Pajero into a camper tourer** while in **Victoria, Australia**.
+
+Different materials. The same instinct: understand the constraints, think creatively and make something work in the real world.
+
+Problem solving doesn't end at the terminal.
+
+<br>
+
+## 06 / The conversation
+
+Interested in **mathematics, AI, machine learning, engineering or ambitious open-source projects**?
+
+I'd be happy to connect and exchange ideas.
+
+<br>
+
+**[Write me an email ↗](mailto:paul.ziegon.07@outlook.de)**
+
 [GitHub](https://github.com/paulziegon) &nbsp; / &nbsp; [Instagram](https://instagram.com/paul_ziegon) &nbsp; / &nbsp; [TikTok](https://tiktok.com/@contourxplorer)
 
+<br>
 <br>
 
 ---
@@ -170,7 +270,11 @@ I'd be happy to exchange ideas.
 
 ### Every great system starts with a question.
 
-<sub>PAUL ZIEGON &nbsp; / &nbsp; THE MATHEMATICAL OBSERVATORY</sub>
+<br>
+
+<sub>PAUL ZIEGON</sub>
+
+<sub>THE MATHEMATICAL OBSERVATORY &nbsp; / &nbsp; BUILT WITH CURIOSITY AND CODE</sub>
 
 <br>
 
