@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200"><defs>
+ <radialGradient id="a"><stop stop-color="#183e50"/><stop offset="1" stop-color="#050b16"/></radialGradient>
+ <radialGradient id="b"><stop stop-color="#665099" stop-opacity=".35"/><stop offset="1" stop-color="#665099" stop-opacity="0"/></radialGradient>
+ <linearGradient id="ink" x2="1" y2=".6"><stop stop-color="#f4f0de"/><stop offset=".5" stop-color="#d9eef2"/><stop offset="1" stop-color="#9db3d5"/></linearGradient>
+ <linearGradient id="rim"><stop stop-color="#aff6e5"/><stop offset=".5" stop-color="#8cbde3"/><stop offset="1" stop-color="#bc9ee4"/></linearGradient>
+ <linearGradient id="fade"><stop stop-color="#bce5e5" stop-opacity="0"/><stop offset=".5" stop-color="#bce5e5" stop-opacity=".5"/><stop offset="1" stop-color="#bce5e5" stop-opacity="0"/></linearGradient>
+ </defs><rect width="1200" height="200" rx="8" fill="#050b16"/><ellipse cx="888" cy="90" rx="600" ry="170" fill="url(#a)"/><ellipse cx="983.9999999999999" cy="120" rx="360" ry="130" fill="url(#b)"/><rect x=".5" y=".5" width="1199" height="199" rx="8" fill="none" stroke="#799eaf" stroke-opacity=".28"/><path d="M42 53H1158" stroke="url(#fade)"/><text x="42" y="116" fill="#e0e7e6" font-family="Georgia,serif" font-size="36" font-style="italic">Every great system starts with a question.</text><text x="43" y="166" fill="#a7bdcd" font-family="Courier New,monospace" font-size="15" >PAUL ZIEGON / THE MATHEMATICAL OBSERVATORY</text></svg>
