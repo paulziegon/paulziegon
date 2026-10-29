@@ -13,12 +13,12 @@
 Math &amp; Computer Science student at the University of Bonn, passionate about algorithmic problem solving, RL experiments, and interactive math visualizations. Aspiring Machine Learning Research Scientist building everything from autonomous race bots to quant trading models.
 
 🔭 &nbsp;I'm currently working on **Autonomous RL racing agents, interactive WebGL math visualizers, and custom trading/automation pipelines**  
-🌱 &nbsp;I'm currently learning **&gt; Deep Reinforcement Learning theory, advanced analysis, and GPU-accelerated computing**  
-👯 &nbsp;I'm looking to collaborate on **&gt; Open-source ML research tools, simulation environments, and interactive STEM visualizers**  
-🤔 &nbsp;I'm looking for help with **&gt; Scaling RL training environments and optimizing hyperparameter search pipelines**  
-💬 &nbsp;Ask me about **&gt; Reinforcement learning, Python automation, WebGL/Canvas rendering, linear algebra, or custom PC hardware**  
-😄 &nbsp;Pronouns: **&gt; he/him**  
-⚡ &nbsp;Fun fact: **&gt; I custom-built a 2002 Mitsubishi Pajero into a camper tourer while in Victoria, Australia.**
+🌱 &nbsp;I'm currently learning **Deep Reinforcement Learning theory, advanced analysis, and GPU-accelerated computing**  
+👯 &nbsp;I'm looking to collaborate on **Open-source ML research tools, simulation environments, and interactive STEM visualizers**  
+🤔 &nbsp;I'm looking for help with **Scaling RL training environments and optimizing hyperparameter search pipelines**  
+💬 &nbsp;Ask me about **Reinforcement learning, Python automation, WebGL/Canvas rendering, linear algebra, or custom PC hardware**  
+😄 &nbsp;Pronouns: **he/him**  
+⚡ &nbsp;Fun fact: **I custom-built a 2002 Mitsubishi Pajero into a camper tourer while in Victoria, Australia.**
 
 ### 🛠️ Tech Stack
 
